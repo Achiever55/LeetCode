@@ -53,4 +53,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Achiever55/LeetCode/tree/master/0206-reverse-linked-list) |
+## String
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/Achiever55/LeetCode/tree/master/1143-longest-common-subsequence) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/Achiever55/LeetCode/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
