@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Achiever55/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/Achiever55/LeetCode/tree/master/0169-majority-element) |
+| [1289-minimum-falling-path-sum-ii](https://github.com/Achiever55/LeetCode/tree/master/1289-minimum-falling-path-sum-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -61,4 +62,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1143-longest-common-subsequence](https://github.com/Achiever55/LeetCode/tree/master/1143-longest-common-subsequence) |
+| [1289-minimum-falling-path-sum-ii](https://github.com/Achiever55/LeetCode/tree/master/1289-minimum-falling-path-sum-ii) |
+## Matrix
+|  |
+| ------- |
+| [1289-minimum-falling-path-sum-ii](https://github.com/Achiever55/LeetCode/tree/master/1289-minimum-falling-path-sum-ii) |
 <!---LeetCode Topics End-->
