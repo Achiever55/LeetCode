@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Achiever55/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Achiever55/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0136-single-number](https://github.com/Achiever55/LeetCode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Achiever55/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Achiever55/LeetCode/tree/master/0189-rotate-array) |
 | [0485-max-consecutive-ones](https://github.com/Achiever55/LeetCode/tree/master/0485-max-consecutive-ones) |
@@ -85,4 +86,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Achiever55/LeetCode/tree/master/0509-fibonacci-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/Achiever55/LeetCode/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
