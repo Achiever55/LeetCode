@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Achiever55/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Achiever55/LeetCode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0189-rotate-array](https://github.com/Achiever55/LeetCode/tree/master/0189-rotate-array) |
+| [0763-partition-labels](https://github.com/Achiever55/LeetCode/tree/master/0763-partition-labels) |
 ## Array
 |  |
 | ------- |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Achiever55/LeetCode/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/Achiever55/LeetCode/tree/master/0169-majority-element) |
+| [0763-partition-labels](https://github.com/Achiever55/LeetCode/tree/master/0763-partition-labels) |
 ## Sorting
 |  |
 | ------- |
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0763-partition-labels](https://github.com/Achiever55/LeetCode/tree/master/0763-partition-labels) |
 | [1021-remove-outermost-parentheses](https://github.com/Achiever55/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1143-longest-common-subsequence](https://github.com/Achiever55/LeetCode/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Achiever55/LeetCode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -109,4 +112,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Achiever55/LeetCode/tree/master/0169-majority-element) |
+## Greedy
+|  |
+| ------- |
+| [0763-partition-labels](https://github.com/Achiever55/LeetCode/tree/master/0763-partition-labels) |
 <!---LeetCode Topics End-->
